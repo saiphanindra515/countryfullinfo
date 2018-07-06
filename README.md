@@ -1,0 +1,2 @@
+# countryfullinfo
+full code
